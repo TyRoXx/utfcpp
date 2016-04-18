@@ -5,7 +5,7 @@ class UtfCppConan(ConanFile):
     name = "utfcpp"
     version = "2.3.4"
     generators = "cmake"
-    url="http://github.com/tyroxx/utfcpp"
+    url="https://github.com/tyroxx/utfcpp"
     license="Boost"
     exports="source/*"
 
